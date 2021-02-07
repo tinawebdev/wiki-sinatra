@@ -11,8 +11,10 @@ On Windows use [RailsInstaller](http://railsinstaller.org/en).
 
 ## Check out the project
 
+1. Open Terminal and change the current working directory to the location where you want the cloned directory to be made.
+2. Download the repository using the [instruction](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository).
+3. In the command line go to the directory with the files downloaded:
 ```
-git clone git@github.com:kgoncharova/wiki-sinatra.git 
 cd wiki-sinatra
 ```
 
